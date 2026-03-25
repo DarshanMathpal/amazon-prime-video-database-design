@@ -1,4 +1,4 @@
-# 🎬 Capstone Project - Product Dissection (Amazon Prime Video)
+# 🎬 Capstone Project - Product Dissection Amazon Prime Video
 
 ## Overview
 This is a comprehensive **Capstone Project** on **Relational Database Design**, built through a real-world case study of **Amazon Prime Video**.  
