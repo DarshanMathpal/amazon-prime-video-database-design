@@ -135,54 +135,6 @@ CREATE TABLE Ratings (
 ```
 ---
 
-## 📊 Sample SQL Queries
-
-1. Top Rated Content
-```sql
-SELECT c.title, AVG(r.rating) AS avg_rating
-FROM Ratings r
-JOIN Content c ON r.content_id = c.content_id
-GROUP BY c.title
-ORDER BY avg_rating DESC;
-
-3. Most Watched Content
-SELECT c.title, COUNT(*) AS watch_count
-FROM Watch_History w
-JOIN Content c ON w.content_id = c.content_id
-GROUP BY c.title
-ORDER BY watch_count DESC;
-
-4. Content Distribution by Genre
-SELECT g.genre_name, COUNT(*) AS total_content
-FROM Content c
-JOIN Genres g ON c.genre_id = g.genre_id
-GROUP BY g.genre_name;
-
-5. Average Rating per Genre
-SELECT g.genre_name, AVG(r.rating) AS avg_rating
-FROM Ratings r
-JOIN Content c ON r.content_id = c.content_id
-JOIN Genres g ON c.genre_id = g.genre_id
-GROUP BY g.genre_name;
-
-6. User Activity (Watch Count per Profile)
-SELECT p.profile_name, COUNT(*) AS total_watched
-FROM Watch_History w
-JOIN Profiles p ON w.profile_id = p.profile_id
-GROUP BY p.profile_name
-ORDER BY total_watched DESC;
-```
----
-
-## 📚 Key Learnings
-
-- Designed scalable relational database structures  
-- Applied normalization techniques for efficient storage  
-- Understood real-world data modeling for streaming platforms  
-- Improved SQL skills for querying structured data
-
----
-
 ## 📜 License
 Available for educational purposes.
 
