@@ -171,7 +171,7 @@ FROM Watch_History w
 JOIN Profiles p ON w.profile_id = p.profile_id
 GROUP BY p.profile_name
 ORDER BY total_watched DESC;
-
+```
 ---
 
 ## 📚 Key Learnings
@@ -180,7 +180,7 @@ ORDER BY total_watched DESC;
 - Applied normalization techniques for efficient storage  
 - Understood real-world data modeling for streaming platforms  
 - Improved SQL skills for querying structured data
-```
+
 ---
 
 ## 📜 License
