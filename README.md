@@ -69,7 +69,7 @@ This project focuses on solving key challenges in modern streaming platforms:
 
 ## 📊 What's Inside the Project?
 
-Detailed content available in the project link:
+Detailed contents of the project include:
 
 - Complete **Database Schema (SQL)**  
 - Entity-Relationship (**ER Diagram**)  
