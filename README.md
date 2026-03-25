@@ -1,7 +1,7 @@
 # 🎬 Capstone Project - Product Dissection (Amazon Prime Video)
 
 ## 📊 ER Diagram
-<img width="4200" height="2176" alt="ER Diagram of Amazon Prime Video" src="https://github.com/user-attachments/assets/f5fd983e-80ac-4971-b283-783b4d8558a9" />
+![ER Diagram](https://github.com/user-attachments/assets/f5fd983e-80ac-4971-b283-783b4d8558a9)
 
 ## Overview
 This is a comprehensive **Capstone Project** on **Relational Database Design**, built through a real-world case study of **Amazon Prime Video**.  
