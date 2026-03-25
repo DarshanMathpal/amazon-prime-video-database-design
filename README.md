@@ -1,12 +1,11 @@
-# 🎬 Amazon Prime Video Database Design (SQL Project)
+# 🎬 Amazon Prime Video Data Modeling & SQL Analysis
 
 ## 📊 ER Diagram
 ![ER Diagram](https://github.com/user-attachments/assets/f5fd983e-80ac-4971-b283-783b4d8558a9)
 
 ## Overview
-This is a comprehensive **Capstone Project** on **Relational Database Design**, built through a real-world case study of **Amazon Prime Video**.  
-
-The project explores how modern streaming platforms leverage structured data systems to efficiently manage users, content, and interactions. It demonstrates key concepts such as database modeling, normalization, and user behavior tracking, while highlighting how these systems enable personalization, recommendations, and scalable content delivery.
+This project presents a real-world relational database design and analysis for Amazon Prime Video.  
+It focuses on structuring data for users, content, and interactions to support scalable streaming and personalized recommendations.
 
 ---
 
@@ -18,7 +17,7 @@ The project explores how modern streaming platforms leverage structured data sys
 
 ## Project Details
 - **Author**: Darshan Mathpal  
-- **Type**: Capstone Project  
+- **Type**: Database Design Project 
 - **Domain**: Database Design / Data Engineering  
 
 ---
@@ -82,6 +81,15 @@ Detailed contents of the project include:
 
 ---
 
+## 📚 Key Learnings
+
+- Designed scalable relational database structures  
+- Applied normalization techniques for efficient storage  
+- Understood real-world data modeling for streaming platforms  
+- Improved SQL skills for querying structured data
+
+---
+
 ## 📜 License
 Available for educational purposes.
 
@@ -90,4 +98,4 @@ Available for educational purposes.
 ## 📧 Contact
 
 - **GitHub**: [@DarshanMathpal](https://github.com/DarshanMathpal)  
-- **Repository**: [Relational_Database_Capstone_Project](https://github.com/DarshanMathpal/Relational_Database_Capstone_Project)  
+- **Repository**: [amazon-prime-video-database-design](https://github.com/DarshanMathpal/amazon-prime-video-database-design)  
