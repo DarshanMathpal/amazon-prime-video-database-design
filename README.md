@@ -9,7 +9,7 @@ The project explores how modern streaming platforms leverage structured data sys
 
 ## 📖 Quick Access
 
-👉 **View Full Project (Detailed Analysis + SQL Schema + ER Diagram)**: [Google Doc](https://docs.google.com/document/d/109l5h6BXwl0ozaDJFpL_o72UDI4DTi48/edit?usp=sharing) ⭐
+**View Full Project (Detailed Analysis + SQL Schema + ER Diagram)**: [Google Doc](https://docs.google.com/document/d/109l5h6BXwl0ozaDJFpL_o72UDI4DTi48/edit?usp=sharing) ⭐
 
 ---
 
@@ -69,7 +69,7 @@ This project focuses on solving key challenges in modern streaming platforms:
 
 ## 📊 What's Inside the Project?
 
-👉 Detailed content available in the project link:
+Detailed content available in the project link:
 
 - Complete **Database Schema (SQL)**  
 - Entity-Relationship (**ER Diagram**)  
