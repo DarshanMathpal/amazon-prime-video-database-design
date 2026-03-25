@@ -1,4 +1,4 @@
-# 🎬 Capstone Project - Product Dissection (Amazon Prime Video)
+# 🎬 Amazon Prime Video Database Design (SQL Project)
 
 ## 📊 ER Diagram
 ![ER Diagram](https://github.com/user-attachments/assets/f5fd983e-80ac-4971-b283-783b4d8558a9)
